@@ -21,3 +21,7 @@ An interactive Excel dashboard built to gain hands on experience on xlookup,vloo
 - XLOOKUP
 - Data Cleaning
 - Dashboard Design
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
