@@ -24,4 +24,4 @@ An interactive Excel dashboard built to gain hands on experience on xlookup,vloo
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
